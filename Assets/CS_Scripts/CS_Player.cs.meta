@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fe371622cdac044899dbeacc6ac4cd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - my_Rigidbody: {instanceID: 0}
+  - losePanel: {fileID: 498469656740478510, guid: 7b620f1a09c0d4e4e8de621b031461f0, type: 3}
+  - winPanel: {fileID: 498469656740478510, guid: 7b620f1a09c0d4e4e8de621b031461f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
